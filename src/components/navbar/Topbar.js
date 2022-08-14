@@ -10,6 +10,7 @@ class Topbar extends React.Component {
         }
     }
 
+    // get sidebar links
     componentDidMount() {
         axios("/content/sidebarLinks.json")
         .then((res) => {

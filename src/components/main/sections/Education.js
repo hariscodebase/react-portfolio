@@ -9,6 +9,7 @@ class Education extends React.Component {
         }
     }
     
+    // get education
     componentDidMount() {
         axios("/content/education.json")
         .then((res) => {

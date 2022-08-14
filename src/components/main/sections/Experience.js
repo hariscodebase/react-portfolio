@@ -10,6 +10,7 @@ class Experience extends React.Component {
         }
     }
     
+    // get employments
     componentDidMount() {
         axios("/content/employments.json")
         .then((res) => {

@@ -10,6 +10,7 @@ class Experience extends React.Component {
         }
     }
     
+    // get projects
     componentDidMount() {
         axios("/content/projects.json")
         .then((res) => {

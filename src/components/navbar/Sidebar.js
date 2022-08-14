@@ -10,6 +10,7 @@ class Sidebar extends React.Component {
         }
     }
 
+    // get sidebar links
     componentDidMount() {
         axios("/content/sidebarLinks.json")
         .then((res) => {

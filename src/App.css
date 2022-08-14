@@ -17,7 +17,7 @@ h6 {
     margin-bottom: 12px;
 }
 
-/* Set the width of the sidebar to 120px */
+/* Set the width of the sidebar to 160px */
 .w3-sidebar {
     width: 160px;
     background: rgb(150, 119, 119);
@@ -36,7 +36,7 @@ h6 {
   width:200px; border: 1px solid grey;
 }
 
-/* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
+/* Add a left margin that matches the width of the sidebar (160px) */
 #main, #header, #footer {
     margin-left: 160px;
 }
@@ -49,6 +49,7 @@ h6 {
     margin-bottom: 1.5em;
 }
 
+/* added space for anchor links */
 footer > a {
     margin-right: 1em;
 }

@@ -11,6 +11,7 @@ class Skills extends React.Component {
     }
 }
 
+// get skills
 componentDidMount() {
     axios("/content/skills.json")
     .then((res) => {
