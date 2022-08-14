@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Musicians Blog",
+        "url": "",
+        "image": null,
+        "usedskills": "HTML | CSS",
+        "content": "A simple project to demonstrate the use of flexbox in CSS.",
+        "created_at": "2022-08-10T00:45:54.000000Z",
+        "updated_at": "2022-08-10T00:45:54.000000Z"
+    },
+    {
+        "id": 2,
+        "title": "Tindog",
+        "url": "",
+        "image": null,
+        "usedskills": "HTML | CSS | Bootstrap",
+        "content": "A website built using Bootstrap library. This web application suits for dog lovers to develop friendship among dogs.",
+        "created_at": "2022-08-10T00:45:54.000000Z",
+        "updated_at": "2022-08-10T00:45:54.000000Z"
+    },
+    {
+        "id": 3,
+        "title": "Bikers Cross",
+        "url": "",
+        "image": null,
+        "usedskills": "HTML | CSS | JS | Bootstrap | NodeJS",
+        "content": "A website to connect bikers. This was developed using Bootstrap for frontend and NodeJS for backend.",
+        "created_at": "2022-08-10T00:45:54.000000Z",
+        "updated_at": "2022-08-10T00:45:54.000000Z"
+    },
+    {
+        "id": 4,
+        "title": "Simon Game",
+        "url": "",
+        "image": null,
+        "usedskills": "HTML | CSS | JS",
+        "content": "A Simple game to test your memory",
+        "created_at": "2022-08-10T00:45:54.000000Z",
+        "updated_at": "2022-08-10T00:45:54.000000Z"
+    }
+]
